@@ -140,6 +140,15 @@ Screenshots of the Power BI dashboard are included in the `/screenshots` folder.
 ✔ Power BI storytelling  
 ✔ Real-world cost analytics  
 
+## 📸 Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](screenshots/overview.png)
+
+### Cost Analysis Details
+![Cost Analysis](screenshots/detail.png)
+
+
 ---
 
 ## 📬 Contact
